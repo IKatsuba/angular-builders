@@ -28,7 +28,7 @@
     "@types/dateformat": "^3.0.1"
   },
   "dependencies": {
-    "@angular-devkit/architect": ">=0.1000.0 < 0.1100.0",
+    "@angular-devkit/architect": ">=0.1000.0 < 0.1102.0",
     "@angular-devkit/core": "^10.0.0",
     "dateformat": "^4.0.0"
   }
